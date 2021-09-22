@@ -21,3 +21,9 @@ For this exercise, I have developed a Random Art Creator that allows the user to
 
 
 To begin drawing, the user must click anywhere and then select one of these keys in order to make the instructions disappear. Once that is done, the user can now feel free to draw without the distraction of the controls by clicking and dragging the mouse. A random paint-like substance is formed, allowing for many creations and possibilities! 
+
+
+
+**Exercise 2 - Generative Landscape:**
+
+For this exercise, I
