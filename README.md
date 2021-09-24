@@ -29,7 +29,12 @@ To begin drawing, the user must click anywhere and then select one of these keys
 For this exercise, I have created a beach themed landscape that is interactive for the user. Upon running the program, the user is faced with a background image of a typical beach setting(to be exact, the bottom half of the image is the sand, then above of that is a small layer of the ocean water, which is lastly followed by the clear blue skies at the top). The backrgound image is constantly moving slowly from side to side, in other words, panning. Here is where the project gets interactive:
 
 *If the user has their cursor in the BOTTOM LEFT section of the screen, this displays an image of a person laying down in that quadrant.*
+
 *If the user has their cursor in the BOTTOM RIGHT section of the screen, this displays an image of a sandcastle in that quadrant.*
+
 *If the user has their cursor in the TOP LEFT section of the screen, this displays an image of a fake sun in that quadrant.*
+
 *If the user has their cursor in the TOP RIGHT section of the screen, this displays an image of a flock of seagulls flying in that quadrant.*
+
 *If the user CLICKS AND HOLDS anywhere on the screen, it freezes the background image in place so that it no longer pans, until the click is released.*
+
