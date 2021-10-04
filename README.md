@@ -38,3 +38,8 @@ For this exercise, I have created a beach themed landscape that is interactive f
 
 *If the user CLICKS AND HOLDS anywhere on the screen, it freezes the background image in place so that it no longer pans, until the click is released.*
 
+
+
+**Project 1 - Virtual Creature:**
+
+For this project, 
