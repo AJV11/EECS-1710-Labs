@@ -42,4 +42,10 @@ For this exercise, I have created a beach themed landscape that is interactive f
 
 **Project 1 - Virtual Creature:**
 
-For this project, 
+For this project, I have created a species of a virtual organism that consists of 5 blue cups and 5 pink cups, which all act as the living creatures of this environment (both of their designs were digitally created by me). The background I chose is an image that represents vast space. Along with this, there is also 'food' that will generate randomly around the space in the shape of a small yellow star. As the blue and pink cups bounce off the edges inside the space, they can eat the stars which causes them to gradually decrease in size and speed. When all the stars in the space have been ate, a new round of stars will refresh, and this process will continue until all the cups eventually reach a speed of 0 and die. 
+
+*Works Cited:*
+
+Space background image: https://www.elitedaily.com/p/15-space-zoom-backgrounds-that-are-out-of-this-world-22846181
+
+Star shape reference: https://processing.org/examples/star.html
