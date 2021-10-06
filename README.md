@@ -49,3 +49,9 @@ For this project, I have created a species of a virtual organism that consists o
 Space background image: https://www.elitedaily.com/p/15-space-zoom-backgrounds-that-are-out-of-this-world-22846181
 
 Star shape reference: https://processing.org/examples/star.html
+
+
+
+**Exercise 3 - Clock:**
+
+For this exercise, I have designed a basic real-time functioning clock that resembles that of an actual 12hr analog clock. As time carries on, there are 5 types of changes that occur to the program. Firstly, every second causes the background colour to randomly change. Secondly, every 30 seconds causes the text colour of the clock numbers to randomly change. Thirdly, every minute causes the border colour of the clock to randomly change. Fourthly, every hour causes the face colour of the clock to randomly change. Lastly, depending on the time of day, a different icon appears in each corner of the screen to represent the current part of the day. During morning(6am-12pm): a coffee icon appears in the top left corner. During afternoon(12pm-6pm): a sun icon appears in the top right corner. During evening(6pm-12am): a sunset icon appears in the bottom right corner. During night(12am-6am): a moon icon appears in the bottom left corner. 
