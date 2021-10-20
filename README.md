@@ -60,4 +60,13 @@ For this exercise, I have designed a basic real-time functioning clock that rese
 
 **Midterm Project 2 - One-Button Game:**
 
-For this project, I have created a one-button single player game called 'Dodger'. Dodger is a car drving game that allows the player to take control of a red car and requires them to avoid incoming traffic on the road. 
+For this project, I have created a one-button single player game called 'Dodger'. Dodger is a car driving game that allows the player to take control of a red car and requires them to avoid oncoming traffic on the road. The game screen is a birds-eye view perspective of the road, which consists of 2 same direction lanes and trees along the left side. The road continously scrolls downwards to simulate speed and movement from the cars, as the background infinitely loops. Dodger begins at a very slow pace, a speed of 10mph to be exact, which lasts for 30 seconds and displays the game title and instructions on the screen. This brief time allows for the user to understand the rules of the game and how to play (click the spacebar to swap lanes). After this introduction, the real game begins and consists of three difficulty stages:
+
+*Stage 1 - This stage begins immediately after the intro and lasts for 30 seconds. In this stage, the car speed is slow (40mph) and contains 15 vehicle obstacles.*
+
+*Stage 2 - This stage begins immediately after stage 1 and lasts for 30 seconds. In this stage, the car speed is medium (70mph) and contains 25 vehicle obstacles.*
+
+*Stage 3 - This stage begins immediately after stage 2 and lasts for 30 seconds. In this stage, the car speed is fast (100mph) and contains 35 vehicle obstacles.*
+
+
+So, the game progressively becomes more difficult as each stage is passed. If the player, the red car located near the bottom, collides with another car then the game will end and alert the user with a "YOU LOSE" message. If the player reaches the end of stage 3, which is a total of 2 minutes since beginning the game, then the game will end and alert the user with a "YOU WIN" message, indicating that you have won! In either scenario, win or lose, the user must restart the program if they wish to play again. (NOTE: the works cited for this project can be found at the bottom of the main code file***). 
