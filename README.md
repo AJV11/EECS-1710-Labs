@@ -70,3 +70,9 @@ For this project, I have created a one-button single player game called 'Dodger'
 
 
 So, the game progressively becomes more difficult as each stage is passed. If the player, the red car located near the bottom, collides with another car then the game will end and alert the user with a "YOU LOSE" message. If the player reaches the end of stage 3, which is a total of 2 minutes since beginning the game, then the game will end and alert the user with a "YOU WIN" message, indicating that you have won! In either scenario, win or lose, the user must restart the program if they wish to play again. (NOTE: the works cited for this project can be found at the bottom of the main code file***). 
+
+
+
+**Exercise 4 - Modular Alphabet:**
+
+For this exercise, I have created a program that simply allows the user to output 1 of the 26 letters in the English alphabet. The background is a basic colourful galaxy-theme image that pans from left to right and vice versa as time carries on. All the user must do is click any key on the keyboard, from a to z, and the corresponding letter will display on the screen until the next letter is clicked (or a non-alphabetical key is pressed). Also, when the program first runs, each letter is given a random stroke colour.
