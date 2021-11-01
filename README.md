@@ -76,3 +76,9 @@ So, the game progressively becomes more difficult as each stage is passed. If th
 **Exercise 4 - Modular Alphabet:**
 
 For this exercise, I have created a program that simply allows the user to output 1 of the 26 letters in the English alphabet. The background is a basic colourful galaxy-theme image that pans from left to right and vice versa as time carries on. All the user must do is click any key on the keyboard, from a to z, and the corresponding letter will display on the screen until the next letter is clicked (or a non-alphabetical key is pressed). Also, when the program first runs, each letter is given a random stroke colour.
+
+
+
+**Exercise 5 - Voice Machine:**
+
+For this exercise, I have created a Fortune Teller Machine that is supposed to replicate the famous Zoltar. The screen displays an image of a Zoltar machine and also consists of background noises that you would hear in a fortune teller's room. All the user must do is click the SPACEBAR to receive a random audio message of 5 different fortunes, which is instructed to the user on screen. The user must wait until Zoltar has finished speaking before clicking the SPACEBAR again.
