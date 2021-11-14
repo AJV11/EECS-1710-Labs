@@ -82,3 +82,9 @@ For this exercise, I have created a program that simply allows the user to outpu
 **Exercise 5 - Voice Machine:**
 
 For this exercise, I have created a Fortune Teller Machine that is supposed to replicate the famous Zoltar. The screen displays an image of a Zoltar machine and also consists of background noises that you would hear in a fortune teller's room. All the user must do is click the SPACEBAR to receive a random audio message of 5 different fortunes, which is instructed to the user on screen. The user must wait until Zoltar has finished speaking before clicking the SPACEBAR again.
+
+
+
+**Project 3 - Custom Pixel:**
+
+For this project, I have designed an interactive pixel changing program using 4 different images of paintings created by the famous artist Vincent van Gogh. Each quadrant of the screen displays a different corner from each of the 4 images, for example, the top left quadrant displays the top left portion of the painting 'cafe' and the bottom right quadrant displays the bottom right portion of the painting 'irises' and so on. When the program begins, the pixels of each image, which are in the shape of small dots, slowly begin heading towards the center of the screen. However, over time the pixels gradually get faster and faster. Carrying on, there are 2 interactive feautures for the user to manipulate the movement of these pixels. The first is that depending on which quadrant the user's cursor is in, the pixels in that quadrant will follow the user's cursor rather than move towards the center of the screen. The second is that also depending on which quadrant the user's cursor is in, if the mouse is pressed then the pixels in that quadrant will freeze until the mouse click is released. 
