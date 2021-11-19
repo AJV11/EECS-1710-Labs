@@ -88,3 +88,30 @@ For this exercise, I have created a Fortune Teller Machine that is supposed to r
 **Project 3 - Custom Pixel:**
 
 For this project, I have designed an interactive pixel changing program using 4 different images of paintings created by the famous artist Vincent van Gogh. Each quadrant of the screen displays a different corner from each of the 4 images, for example, the top left quadrant displays the top left portion of the painting 'cafe' and the bottom right quadrant displays the bottom right portion of the painting 'irises' and so on. When the program begins, the pixels of each image, which are in the shape of small dots, slowly begin heading towards the center of the screen. However, over time the pixels gradually get faster and faster. Carrying on, there are 2 interactive feautures for the user to manipulate the movement of these pixels. The first is that depending on which quadrant the user's cursor is in, the pixels in that quadrant will follow the user's cursor rather than move towards the center of the screen. The second is that also depending on which quadrant the user's cursor is in, if the mouse is pressed then the pixels in that quadrant will freeze until the mouse click is released. 
+
+
+
+**Exercise 6 - Extrapolated Body:**
+
+For this exercise, I have created an interactive webcam program that uses filters to display the outlines of people and objects within the camera's field of view. To start, the background is a gradual ever-changing colour transition from black to white. Then, the interactive part of the program allows the user to change the colour of the fill and stroke of the outlines displayed by the webcam, as well as the threshold. The following are the controls:
+
+*Press '1' to fill with RED.*
+
+*Press '2' to fill with GREEN.*
+
+*Press '3' to fill with BLUE.*
+
+*Press '4' to make the stroke ORANGE.*
+
+*Press '5' to make the stroke PINK.*
+
+*Press '6' to make the stroke YELLOW.*
+
+*Press '7' to set the threshold to 150.*
+
+*Press '8' to set the threshold to 100.*
+
+*Press '9' to set the threshold to 50.*
+
+*Press '0' to set the threshold to 10.*
+
