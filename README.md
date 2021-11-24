@@ -115,3 +115,8 @@ For this exercise, I have created an interactive webcam program that uses filter
 
 *Press '0' to set the threshold to 10.*
 
+
+
+**Exercise 7 - Iterative Pattern:**
+
+For this exercise, I have created an endless 3D pattern animation. The main focus in the animation is a large grid of symmetric and evenly spaced out spheres that gradually change from black to the colour of the background, and vice versa. Speaking of, the background displays a smooth colour flow that transitions between the colours of the rainbow. To continue, there are 3 different stages in the animation that occur every 10 seconds that pass. The first one is a constant rotation in the z-axis of the camera's perspective. The second one is a constant rotation in the x-axis of the camera's perspective. And the last one is a constant rotation in the y-axis of the camera's perspective. These all combine to create an endless abstract pattern of colours and shape, which is very pleasant to view. 
