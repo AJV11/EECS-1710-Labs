@@ -120,3 +120,9 @@ For this exercise, I have created an interactive webcam program that uses filter
 **Exercise 7 - Iterative Pattern:**
 
 For this exercise, I have created an endless 3D pattern animation. The main focus in the animation is a large grid of symmetric and evenly spaced out spheres that gradually change from black to the colour of the background, and vice versa. Speaking of, the background displays a smooth colour flow that transitions between the colours of the rainbow. To continue, there are 3 different stages in the animation that occur every 10 seconds that pass. The first one is a constant rotation in the z-axis of the camera's perspective. The second one is a constant rotation in the x-axis of the camera's perspective. And the last one is a constant rotation in the y-axis of the camera's perspective. These all combine to create an endless abstract pattern of colours and shape, which is very pleasant to view. 
+
+
+
+**Exercise 8 - Data Self-Portrait:**
+
+For this exercise, I have created a program that simply generates a table based on values from an excel spreadsheet. To start, I put together a table on excel with 2 columns and 8 rows, then linked it into my code using the function loadTable(). The first column represents the 7 days of the week and has a header called "Day of the Week", and the second column represents the average hours I spend on schoolwork for each day and has a header called "Average Hours". So, the title of this table is "My Average Hours Of School Work Each Day Of The Week!!!" which evidently displays my own personal data of what I believe is an accurate approximation. Also, to make it visually appealing, the background is black, the two column headers are orange, the Days of the Week are turquoise, the Hours are yellow, and the table dividors are white. Finally, the serial monitor prints out the data of each day in the form of sentences as such: "I average around _ hours of school work on _'s."
